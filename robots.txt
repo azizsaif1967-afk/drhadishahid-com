@@ -1,7 +1,5 @@
 # robots.txt — drhadishahid.com
-# Official legacy biography website of Dr. A. Hadi Shahid
+# Unlisted: site is shareable by direct link only, not for indexing
 
 User-agent: *
-Allow: /
-
-Sitemap: https://www.drhadishahid.com/sitemap.xml
+Disallow: /
